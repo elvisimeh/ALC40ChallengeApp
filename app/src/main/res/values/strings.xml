@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ALC 4.0 Challenge App</string>
+    <string name="welcome_to_alc_4_0">Welcome to ALC 4.0</string>
+    <string name="title_activity_main">activity_main</string>
+    <string name="welcome">Welcome to ALC 4.0</string>
+    <string name="about">About ALC</string>
+    <string name="profile">My profile</string>
+    <string name="title_activity_about">about</string>
+    <string name="title_activity_profile">profile</string>
+</resources>
